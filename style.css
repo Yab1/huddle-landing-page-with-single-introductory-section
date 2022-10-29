@@ -106,7 +106,7 @@ i:hover{
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center center;
-        height: 22em;
+        height: 24em;
     }
     .details{
         display: flex;
