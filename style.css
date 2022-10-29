@@ -94,6 +94,7 @@ i:hover{
         background-image: url("images/bg-desktop.svg");
         background-repeat: no-repeat;
         background-position: center;
+        overflow: hidden;
     }
     main{
         display: grid;
